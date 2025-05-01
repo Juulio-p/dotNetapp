@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q+1QugZLXhY=",
+  "success": true,
+  "projectFilePath": "/home/poky/dotNetApp/first_app.csproj",
+  "expectedPackageFiles": [
+    "/home/poky/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
